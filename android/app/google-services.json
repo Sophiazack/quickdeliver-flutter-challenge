@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856785521982",
+    "project_id": "quick-deliver-2da14",
+    "storage_bucket": "quick-deliver-2da14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856785521982:android:f3c86f0dd34ab251c4b06f",
+        "android_client_info": {
+          "package_name": "com.example.quick_deliver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbbDmFSmGFzaXsvGwKa8ZchN-UroOv4fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
